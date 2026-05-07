@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMXCtR/I68tJr1Ct2c7u0NP",
+      "authorship_tag": "ABX9TyPGbm91a9L2POVeSMp0V+VS",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -25,6 +25,16 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/Nguyen-Quoc-An/TH_DeepLearning/blob/main/Buoi1_DeepLearning\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#NUMPY\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "sHKzSOgmW_Lo"
+      }
     },
     {
       "cell_type": "code",
